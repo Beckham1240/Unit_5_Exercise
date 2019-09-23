@@ -44,7 +44,9 @@ div.col-1-5 a{
     padding-left: 2em;
  }
 div.col-1-5 a:link, 
-div.col-1-5 a:visited{
+div.col-1-5 a:visited,
+div.col-1-4 a:link,
+div.col-1-4 a:visited{
     color: rgb(239, 220, 156);
  }
  
@@ -76,10 +78,7 @@ div.col-1-4 ul{
     font-size: 0.9em;
     color: rgb(186, 186, 156);
  }
- footer div.col-1-4 a:link,
- footer div.col-1-4 a:visited{
-    color: rgb(186, 186, 156);
- }
+
  
  
  
